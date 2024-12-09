@@ -53,7 +53,7 @@ charset-normalizer==3.3.2
     # via
     #   pdfminer-six
     #   requests
-chroma-hnswlib==0.7.3
+chroma-hnswlib==0.7.6
     # via chromadb
 chromadb==0.5.0
     # via -r requirements.in
